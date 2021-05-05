@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //add some code
+
 
         final double STEPS_IN_SPAN = 10;
         final double SPANS_IN_FLOOR = 2;
